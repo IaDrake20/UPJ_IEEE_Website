@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on UPJ-IEEE</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on UPJ-IEEE</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Mar 2024 15:21:03 -0400</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About Us</title>
+      <link>http://localhost:1313/posts/about-us/</link>
+      <pubDate>Wed, 13 Mar 2024 15:21:03 -0400</pubDate>
+      <guid>http://localhost:1313/posts/about-us/</guid>
+      <description>(Short blurb about anything from the history of the chapter/club that is worth mentioning.)</description>
+    </item>
+    <item>
+      <title>Officers</title>
+      <link>http://localhost:1313/posts/officers/</link>
+      <pubDate>Wed, 13 Mar 2024 14:07:05 -0400</pubDate>
+      <guid>http://localhost:1313/posts/officers/</guid>
+      <description>Here is a list of our officers and their contact information. Included are social links from alumni officers.&#xA;(TODO: Do we want pictures of officers here or is contact info enough??)&#xA;Contact Information&#xA;Nathaniel Andrews- President nja36@pitt.edu&#xA;Vincent Tabib- Vice President&#xA;vft2@pitt.edu&#xA;Gina Rhoads- Secretary&#xA;gir13@pitt.edu&#xA;Jesus Godinez- Treasurer&#xA;jag338@pitt.edu&#xA;Ian Drake- Webmaster&#xA;iad11@pitt.edu&#xA;Alumni Officers&#xA;(TODO: check if there is anyone we want to list here)</description>
+    </item>
+  </channel>
+</rss>
