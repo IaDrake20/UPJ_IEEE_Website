@@ -1,0 +1,11 @@
+baseURL = 'https://upj-ieee.org/'
+languageCode = 'en-us'
+title = 'UPJ-IEEE'
+theme = 'ananke'
+resourceDir = "../resources"
+SectionPagesMenu = "main"
+Paginate = 3
+
+#Logo
+[params]
+  site_logo = "img/IEEE-Logo.svg"
